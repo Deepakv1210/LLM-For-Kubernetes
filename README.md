@@ -10,6 +10,9 @@ Sabuj Laskar
 ## Setup of Kubernetes and Open Telemetry Application.
 Follow the official Open Telemetry Demo to setup a mock application on your local machine: https://opentelemetry.io/docs/demo/architecture/
 
+## Diagram
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/c59d0867-5922-4b47-ad88-edeb936fe31b">
+
 ## Generating Logs
 After setting up the application, you can start generating logs. This covers a vareity of services and the Open Telemetry website provides important information with regards to this.
 
