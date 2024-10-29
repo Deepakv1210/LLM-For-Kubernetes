@@ -34,3 +34,7 @@ For analysis we used ChatGPT API and Groq APIs, we directly access Gemini via UI
 
 We provide a reference to our experiments workbook in this repo.
 
+## Results
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/be1c2fef-a5de-4cad-bcb4-f76c16df8bb6">
+
+
